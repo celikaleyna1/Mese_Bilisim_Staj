@@ -1,0 +1,11 @@
+.saat{
+    display: block;
+}
+
+.saat span{
+    font-size: 100px;
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+}
